@@ -2,20 +2,7 @@
  Development of a search engine for trips to Mars
 
 Программа для покупки путёвок на Марс - 
-генерирует 10 случайных билетов и отображает их в табличном виде, как показано ниже:
-
-Spaceline      |Days  |Trip type  | Price
-=========================================
-SpaceX         |  14  |Round-trip | $ 140
-Virgin Galactic|  18  |Round-trip | $ 118
-SpaceX         |  17  |Round-trip | $ 122
-Virgin Galactic|  13  |One-way    | $  73
-SpaceX         |  15  |One-way    | $  67
-Space Adventure|  14  |Round-trip | $ 142
-SpaceX         |  12  |One-way    | $  77
-Virgin Galactic|  14  |One-way    | $  70
-Space Adventure|  16  |Round-trip | $ 126
-Space Adventure|  19  |Round-trip | $ 112
+генерирует 10 случайных билетов и отображает их в табличном виде:
 
 В коде используем переменные, константы, switch, if и for. Для отображения, выравнивания текста и генерации случайных чисел будут задействованы пакеты fmt и math/rand.
 
